@@ -1,12 +1,15 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-       
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ li {
+    display: inline-block; 
+    margin: 10px 0;      
+ }   
 
- /* .count{
-        font-size: 30px; 
+ .count{
+        font-size: 20px; 
         opacity: 0.9;
         filter: alpha(opacity=50);
         font-weight: bolder;
-} */
+}
 .btn {
     background-color: #ffff99;
     filter: alpha(opacity=50);
@@ -23,8 +26,8 @@ span{
 }
 .panel {
     font-size: 20px; 
-    /* opacity: 0.9; */
-    /* filter: alpha(opacity=90);    */
+    opacity: 0.9;
+    filter: alpha(opacity=90);   
   
 } 
  h1{
@@ -45,4 +48,4 @@ h3{
     opacity: 0.9;
     filter: alpha(opacity=50);
     font-weight: bolder;
- } 
+ }  
